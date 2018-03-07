@@ -1,0 +1,14 @@
+body
+    {
+        background: darkgray;
+        color: white;
+    }
+#stuff
+{
+    border-style: solid;
+    border-color: darkgray;
+    border-width: thick;
+    background-color: lightgrey;
+    text-align: center;
+    color: black;
+}
